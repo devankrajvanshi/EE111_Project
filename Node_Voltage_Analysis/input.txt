@@ -1,0 +1,5 @@
+Vsrc V1 V0 50
+R V1 V0 5
+R V2 V1 10
+R V2 V1 10
+R V2 V0 5
